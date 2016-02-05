@@ -85,8 +85,7 @@ SkyRemote.commands = {
 	record: 67,
 	fastforward: 69,
 	rewind: 71,
-	sky: 127, 
-	tv: 127,
+	sky: 241, 
 	boxoffice: 240
 }
 
